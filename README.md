@@ -1,21 +1,19 @@
-## DeChallenge
+# DeChallenge
 
-project to get data from api coingecko to analyze data from crypto currecies 
+project to get data from api coingecko to analyze data from cryptocurrecies 
 
-Table of Contents
+## Table of Contents
 
     DeChallenge
         Table of Contents
         Description
         Installation
         Usage
-        Contributing
-        License
 
-# Description
+## Description
 
-Detailed description of the project and its purpose.
-# Installation
+Project to get data from api coingecko to analyze the top 120 of data from cryptocurrecies, convert the values Current_price, Ath and Market_cap from USD to COP and export the data to csv file.
+## Installation
 
 1. create a virtual env 
 ```[python]
@@ -37,14 +35,10 @@ source env/bin/activate
 pip install -r requirements.txt
 ```
 
-# Usage
+## Usage
 
-Instructions on how to use the project and any relevant code snippets.
-# Contributing
+go to ubication of file and run on terminal
 
-Guidelines on how to contribute to the project.
-# License
-
-Information on the project's license and any applicable terms.
-
-Feel free to modify this structure to fit your specific project needs!
+```
+jupyter notebook DeChallenge.ipynb
+```
