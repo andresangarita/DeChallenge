@@ -15,6 +15,8 @@ project to get data from api coingecko to analyze data from cryptocurrecies
 Project to get data from api coingecko to analyze the top 120 of data from cryptocurrecies, convert the values Current_price, Ath and Market_cap from USD to COP and export the data to csv file.
 ## Installation
 
+For local review you can perform the following steps
+
 1. create a virtual env 
 ```[python]
 python -m ven env 
@@ -34,7 +36,7 @@ source env/bin/activate
 ```
 pip install -r requirements.txt
 ```
-
+For web review you can directly access the url https://github.com/andresangarita/DeChallenge/blob/main/DeChallenge.ipynb
 ## Usage
 
 go to ubication of file and run on terminal
