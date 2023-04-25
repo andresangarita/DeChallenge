@@ -2,14 +2,41 @@
 
 project to get data from api coingecko to analyze data from crypto currecies 
 
-<!-- toc -->
+Table of Contents
+
+    DeChallenge
+        Table of Contents
+        Description
+        Installation
+        Usage
+        Contributing
+        License
 
 # Description
 
 Detailed description of the project and its purpose.
 # Installation
 
-Instructions on how to install and run the project.
+1. create a virtual env 
+```[python]
+python -m ven env 
+```
+
+2. activate the venv
+
+in windows
+```
+env\Scripts\activate.bat
+```
+in linux
+```
+source env/bin/activate
+```
+3. install dependencies
+```
+pip install -r requirements.txt
+```
+
 # Usage
 
 Instructions on how to use the project and any relevant code snippets.
